@@ -24,7 +24,7 @@ echo -e "[6]. Change Port SSTP"
 echo -e "[7]. Change Port SSH WS NON TLS"
 echo -e "[8]. Change Port SSH WS TLS / SSL"
 echo -e "[9]. Exit"
-echo -e "Script Recode By @Waan"
+echo -e "SCRIPT RECODE BY ENVY PROJECTS"
 echo -e "======================================"
 echo -e ""
 read -p "Select From Options [ 1-7 ] : " port
