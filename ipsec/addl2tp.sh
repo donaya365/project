@@ -67,5 +67,5 @@ Password   : $VPN_PASSWORD
 Created    : $hariini
 Expired    : $exp
 ============================
-SCRIPT PREMIUM BY WAANSTORES
+SCRIPT PREMIUM BY ENVY PROJECTS
 EOF
