@@ -75,6 +75,6 @@ echo "----------------------------------------------";
         cat /tmp/vpn-login-udp.txt
 fi
 echo "----------------------------------------------";
-echo "SCRIPT PREMIUM BY WAANSTORES"
+echo "SCRIPT PREMIUM BY ENVY PROJECTS"
 echo "";
 
