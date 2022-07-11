@@ -55,5 +55,5 @@ Cert      : http://$IP:89/server.crt
 Created   : $hariini
 Expired   : $exp
 ============================
-SCRIPT PREMIUM BY WAANSTORES
+SCRIPT PREMIUM BY ENVY PROJECTS
 EOF
